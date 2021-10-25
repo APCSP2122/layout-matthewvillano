@@ -1,0 +1,14 @@
+nav {
+    background-color: lightYellow;
+    flex-grow:5;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+
+nav ul li a{
+    text-decoration: none;
+}
