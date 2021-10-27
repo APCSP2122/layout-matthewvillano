@@ -6,9 +6,20 @@ nav {
 nav ul {
     display: flex;
     list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    
 }
 
 
 nav ul li a{
     text-decoration: none;
+}
+
+.logo {
+    flex-grow: 1;
+}
+
+.profile {
+    flex-grow: 1;
 }
